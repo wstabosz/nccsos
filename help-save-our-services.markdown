@@ -15,4 +15,6 @@ Or you can post this picture and a link to whatever social media you use.
 
 ## Technical Support
 
-Some of you may have noticed that this website is a bit rough around the edges. If anyone can help with design
+Some of you may have noticed that this website is a bit rough around the edges. If anyone can help with design.
+
+It's built with Jekyll and hosted on [github](https://github.com/wstabosz/nccsos).
