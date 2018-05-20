@@ -1,7 +1,7 @@
 ---
 title: Introducing NCC Deluxe
 date: 2018-05-20 05:48:00 -04:00
-layout: page
+layout: default
 ---
 
 ## Residents of New Castle County, Delaware
