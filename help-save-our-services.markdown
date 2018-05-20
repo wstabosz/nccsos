@@ -8,7 +8,7 @@ I can't do this alone. I need your help.
 ## Spread the word
 Best thing to do is spread the word. Here are some ways to share:
 
-If you're on facebook, you can share my [public post](https://www.facebook.com/walter.stabosz/posts/10104608762579754).'
+If you're on facebook, you can share my [public post](https://www.facebook.com/walter.stabosz/posts/10104608762579754).
 
 Or you can post on your favorite social media site using this [picture](/uploads/would%20you%20rather%20-%20facebook%202.png) and a link to [http://www.nccsos.com/](http://www.nccsos.com/)
 
