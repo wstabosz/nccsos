@@ -5,7 +5,8 @@ layout: default
 ---
 
 
-[How to Share this Website](/help-save-our-services).
+|[How to Share this Website](/help-save-our-services).|
+|-:|
 
 ## Residents of New Castle County, Delaware
 
