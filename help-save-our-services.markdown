@@ -21,6 +21,8 @@ Visit http://www.nccsos.com/ to find out how to contact the Council and tell the
 Share this post with all you NCC friends. We need them to call/email too.
 ```
 
+I'm currently working on printable PDFs that people can print and post around NCC.
+
 ## Technical Support
 
 Some of you may have noticed that this website is a bit rough around the edges. If anyone can help with design.
@@ -28,3 +30,7 @@ Some of you may have noticed that this website is a bit rough around the edges. 
 It's built with Jekyll and hosted on [github](https://github.com/wstabosz/nccsos).
 
 [Contact me](/contact-me) if you can help with web design.
+
+## Graphic Designer
+
+If anyone wants to help design some printable PDFs for ot
