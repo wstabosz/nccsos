@@ -12,21 +12,12 @@
 
   {% if site.google_analytics %}
 		{% if jekyll.environment == 'production' %}
-			<!-- Global site tag (gtag.js) - Google Analytics -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56749036-2"></script>
-			<script>
-			  window.dataLayer = window.dataLayer || [];
-			  function gtag(){dataLayer.push(arguments);}
-			  gtag('js', new Date());
-
-			  gtag('config', 'UA-56749036-2');
-			</script>
+  			{% include analytics.html %}		
 		{% else %}
-			<!-- GA goes here in production -->
+			<!-- jekyll.environment != 'production' -->
 		{% endif %}
-  {% include analytics.html %}
   {% else %}
-  <!-- site.GA test failed  -->
+  	<!-- site.GA == null  -->
   {% endif %}
 
 </head>
