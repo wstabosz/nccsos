@@ -4,9 +4,7 @@ date: 2018-05-20 05:48:00 -04:00
 layout: default
 ---
 
-<div style="border: 1px solid #f00; width: 100%" >
 [How to Share this Website](/help-save-our-services)
-</div>
 
 ## Residents of New Castle County, Delaware
 
