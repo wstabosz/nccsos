@@ -55,7 +55,7 @@ This is where things get a bit tricky. In order to get the great services of ***
 #### 1. Contact your New Castle County Councilperson
 Tell them you want them to subscribe to ***NCC Deluxe***.
 
-[Click here for instructions on how to contact your County Council member.](/contact-your-ncc-council-member)
+[Click here for instructions on how to contact your County Council member](/contact-your-ncc-council-member).
 
 #### 2. Contact your State Representatives 
 Tell our State Representatives that we want their help raising revenue to us cover some of the costs of ***NCC Deluxe***.
@@ -65,7 +65,7 @@ Tell our State Representatives that we want their help raising revenue to us cov
 #### Tell your friends about ***NCC Deluxe***. 
 The more people who do steps 1 & 2, the more likely it is that we will get our subscription.
 
-Simply share this website with your friends via social media, email, or phone.
+[Click here for some instructions on how to best share this website](/help-save-our-services).
 
 ### What happens if I don't want to subscribe ?
 
