@@ -21,7 +21,8 @@ Visit http://www.nccsos.com/ to find out how to contact the Council and tell the
 Share this post with all you NCC friends. We need them to call/email too.
 ```
 
-I'm currently working on printable PDFs that people can print and post around NCC.
+## Printables PDF
+I'm currently working on printable PDFs that people can print and post around NCC. Check back later today.
 
 ## Technical Support
 
@@ -33,4 +34,4 @@ It's built with Jekyll and hosted on [github](https://github.com/wstabosz/nccsos
 
 ## Graphic Designer
 
-If anyone wants to help design some printable PDFs for ot
+If anyone wants to help design some printable PDFs as mentioned above, please [Contact me](/contact-me).
