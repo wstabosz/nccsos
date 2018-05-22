@@ -25,19 +25,17 @@ This amazing library may have to be closed if the New Castle County Council fail
 
 ![a.png](/uploads/a.png)
 
-![3.jpg](/uploads/3.jpg)
-
 ![0.after.png](/uploads/0.after.png)
 
 ![9.jpg](/uploads/9.jpg)
 
 ![6.jpg](/uploads/6.jpg)
 
-![7.jpg](/uploads/7.jpg)
+![5.jpg](/uploads/5.jpg)
 
 ![8.jpg](/uploads/8.jpg)
 
-![5.jpg](/uploads/5.jpg)
+![3.jpg](/uploads/3.jpg)
 
 </div>
 
