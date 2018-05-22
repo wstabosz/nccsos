@@ -3,6 +3,8 @@ title: Route 9 Library and Innovation Center
 date: 2018-05-22 13:53:00 -04:00
 ---
 
+This is the Route 9 Library and Innovation Center. It was built in an impoverished area of New Castle County, Delaware. It
+
 This amazing library may have to be closed if the New Castle County Council fails to pass the recommended budget at their vote tonight at 6:30PM. 
 
 <div markdown="1" class="zebra">
@@ -23,11 +25,11 @@ This amazing library may have to be closed if the New Castle County Council fail
 
 ## Photos
 
-###The property in 2011
+### The property in 2011
 
 ![0.before.png](/uploads/0.before.png)
 
-###The library today
+### The library today
 
 ![0.after.png](/uploads/0.after.png)
 
