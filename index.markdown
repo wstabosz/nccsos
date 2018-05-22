@@ -8,15 +8,16 @@ layout: default
 
 <style>
 
-	div.zebra {
-		border: 1px solid #999;
-	}
-	div.zebra:nth-child(even) {
-		background: #faa;		
-	}
-
+div.zebra:nth-child(even) {
+    background: #d7e1e4;
+}
+div.zebra {
+    border: 1px solid #999;
+    margin-bottom: 2em;
+    padding: 1em;
+}
 	div.zebra:nth-child(odd) {
-		background: #aaf;
+		background: #d7d7e4;
 	}
 
 </style>
