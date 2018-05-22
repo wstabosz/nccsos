@@ -3,21 +3,23 @@ title: Route 9 Library and Innovation Center
 date: 2018-05-22 13:53:00 -04:00
 ---
 
-It's down to the wire. Vote is in a few hours. Here is some info about the Route 
+This amazing library may have to be closed if the New Castle County Council fails to pass the recommended budget. 
 
-<div class="zebra" markdown="1">
+<div markdown="1" class="zebra">
+
 ## Videos
 
-### Opening day at the library
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FWkpu4RRkWU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<div class="zebra" markdown="1">
+<div markdown="1" class="zebra">
+
 ## News
 [New library marks new investment in Route 9 corridor](http://www.delawarebusinesstimes.com/new-library-marks-new-investment-route-9-corridor/)
+
 </div>
 
-<div class="zebra" markdown="1">
+<div markdown="1" class="zebra">
 ## Photos
 
 ###The property in 2011
@@ -26,28 +28,24 @@ It's down to the wire. Vote is in a few hours. Here is some info about the Route
 ###The library today
 ![0.after.png](/uploads/0.after.png)
 
-![1.png](/uploads/1.png)
+![1.jpg](/uploads/1.jpg)
 
-![2.png](/uploads/2.png)
+![2.jpg](/uploads/2.jpg)
 
-![3.png](/uploads/3.png)
+![3.jpg](/uploads/3.jpg)
 
-![4.png](/uploads/4.png)
+![4.jpg](/uploads/4.jpg)
 
-![5.png](/uploads/5.png)
+![5.jpg](/uploads/5.jpg)
 
-![6.png](/uploads/6.png)
+![6.jpg](/uploads/6.jpg)
 
-![7.png](/uploads/7.png)
+![7.jpg](/uploads/7.jpg)
 
-![8.png](/uploads/8.png)
+![8.jpg](/uploads/8.jpg)
 
-![9.png](/uploads/9.png)
+![9.jpg](/uploads/9.jpg)
 
 ![a.png](/uploads/a.png)
-
-
-
-
 
 </div>
