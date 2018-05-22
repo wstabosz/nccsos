@@ -3,9 +3,19 @@ title: Route 9 Library and Innovation Center
 date: 2018-05-22 13:53:00 -04:00
 ---
 
-This is the Route 9 Library and Innovation Center. It was built in an impoverished area of New Castle County, Delaware. It
+This is the Route 9 Library and Innovation Center. It was built in an impoverished area of New Castle County, Delaware with the goal of improving not just the lives of that community, but of all NCC residents.
 
 This amazing library may have to be closed if the New Castle County Council fails to pass the recommended budget at their vote tonight at 6:30PM. 
+
+This website was created with the goal of convincing the public and the Council to pass the budget.
+
+Please help spread the word to any of the following:
+
+* People who live in NCC
+* Social justice blogs
+* Anyone who you think may be able to raise the alarm
+
+[How to share](/help-save-our-services)
 
 <div markdown="1" class="zebra">
 
