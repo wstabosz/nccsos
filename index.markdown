@@ -18,7 +18,7 @@ I'm asking you to join me in subscribing to a package of services I like to call
 </div>
 <div markdown="1" class="zebra">
 
-### What is ***NCC Deluxe*** ?
+## What is ***NCC Deluxe*** ?
 
 Think of ***NCC Deluxe*** as a service that improves the quality-of-life for all residents of New Castle County. It has features that are so amazing, you will not believe the value you get for your money when you subscribe. Feature such as ….
 
@@ -51,7 +51,7 @@ Think of ***NCC Deluxe*** as a service that improves the quality-of-life for all
 </div>
 <div markdown="1" class="zebra">
 
-### Does it really cost less than Netflix ?
+## Does it really cost less than Netflix ?
 
 Yes, it does. Most people will pay around $5.41 per month for ***NCC Deluxe***. Some people will pay more, others will pay less. The exact cost that you can expect to pay depends on where you live in New Castle County.
 
@@ -60,21 +60,21 @@ Yes, it does. Most people will pay around $5.41 per month for ***NCC Deluxe***. 
 </div>
 <div markdown="1" class="zebra">
 
-### This sounds great! How do I subscribe ?
+## This sounds great! How do I subscribe ?
 
 This is where things get a bit tricky. In order to get the great services of ***NCC Deluxe***, all of us (the citizens of New Castle County) have to subscribe. This means we all have to engage in the political process a tiny bit. We all need to do a few things:
 
-#### 1. Contact your New Castle County Councilperson
+### 1. Contact your New Castle County Councilperson
 Tell them you want them to subscribe to ***NCC Deluxe***.
 
 [Click here for instructions on how to contact your County Council member](/contact-your-ncc-council-member).
 
-#### 2. Contact your State Representatives 
+### 2. Contact your State Representatives 
 Tell our State Representatives that we want their help raising revenue to us cover some of the costs of ***NCC Deluxe***.
 
 [Click here for instructions on how to contact your state legislator](/contact-your-state-legislature).
 
-#### Tell your friends about ***NCC Deluxe***. 
+### Tell your friends about ***NCC Deluxe***. 
 The more people who do steps 1 & 2, the more likely it is that we will get our subscription.
 
 [Click here for some instructions on how to best share this website](/help-save-our-services).
@@ -82,7 +82,7 @@ The more people who do steps 1 & 2, the more likely it is that we will get our s
 </div>
 <div markdown="1" class="zebra">
 
-### What happens if I don't want to subscribe ?
+## What happens if I don't want to subscribe ?
 
 While it saddens me that not everyone can appreciate the value offered by ***NCC Deluxe***, there are some things you should know before you decide not to subscribe. Without ***NCC Deluxe***, we will all miss out on all the great features mentioned above.
 
