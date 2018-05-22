@@ -20,7 +20,7 @@ div.zebra {
 		background: #d7d7e4;
 	}
 
-.section-image {
+.section-image img {
     display: block;
     margin: 0 auto;
     box-shadow: 1px 1px 6px 3px #555;
