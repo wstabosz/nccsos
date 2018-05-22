@@ -20,12 +20,20 @@ div.zebra {
 		background: #d7d7e4;
 	}
 
+.section-image {
+    display: block;
+    margin: 0 auto;
+    box-shadow: 1px 1px 6px 3px #555;
+}
+
 </style>
 
 <div markdown="1" class="zebra">
 ## Residents of New Castle County, Delaware
 
+<div markdown="1" class="section-image">
 ![would-you-rather.png](/uploads/would-you-rather.png)
+</div>
 
 Imagine if you could have better libraries, parks, and public safety right here in our very own New Castle County, and all for less than the cost of your monthly *Netflix* subscription?
 
