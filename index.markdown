@@ -6,8 +6,15 @@ layout: default
 
 [How to Share this Website](/help-save-our-services)
 
+<style>
+.section-a,.section-b,.section-c,.section-d,.section-e {
+   border: 1px solid #fff;
+   margin-bottom: 2em;
+}
+</style>
+
 <div markdown="1" class="section-a">
-s
+
 ## Residents of New Castle County, Delaware
 
 ![would-you-rather.png](/uploads/would-you-rather.png)
