@@ -6,28 +6,6 @@ layout: default
 
 [How to Share this Website](/help-save-our-services)
 
-<style>
-
-div.zebra:nth-child(even) {
-    background: #d7e1e4;
-}
-div.zebra {
-    border: 1px solid #999;
-    margin-bottom: 2em;
-    padding: 1em;
-}
-	div.zebra:nth-child(odd) {
-		background: #d7d7e4;
-	}
-
-.section-image img {
-    display: block;
-    margin: 0 auto;
-    box-shadow: 1px 1px 6px 3px #555;
-}
-
-</style>
-
 <div markdown="1" class="zebra">
 ## Residents of New Castle County, Delaware
 
