@@ -7,14 +7,21 @@ layout: default
 [How to Share this Website](/help-save-our-services)
 
 <style>
-.section-a,.section-b,.section-c,.section-d,.section-e {
-   border: 2px solid #000;
-   margin-bottom: 2em;
-   background: #ffa;
-}
+
+	div.zebra {
+		border: 1px solid #999;
+	}
+	div.zebra:nth-child(even) {
+		background: #faa;		
+	}
+
+	div.zebra:nth-child(odd) {
+		background: #aaf;
+	}
+
 </style>
 
-<div markdown="1" class="section-a">
+<div markdown="1" class="zebra">
 ## Residents of New Castle County, Delaware
 
 ![would-you-rather.png](/uploads/would-you-rather.png)
@@ -24,7 +31,7 @@ Imagine if you could have better libraries, parks, and public safety right here 
 I'm asking you to join me in subscribing to a package of services I like to call ***NCC Deluxe*** .
 
 </div>
-<div markdown="1" class="section-b">
+<div markdown="1" class="zebra">
 
 ### What is ***NCC Deluxe*** ?
 
@@ -57,7 +64,7 @@ Think of ***NCC Deluxe*** as a service that improves the quality-of-life for all
 * Sports leagues covering [adults sports](http://www.nccde.org/513/Adult-Sports), [high school sports](http://www.nccde.org/514/High-School-Sports), and [youth sports](http://www.nccde.org/515/Youth-Sports).
 
 </div>
-<div markdown="1" class="section-c">
+<div markdown="1" class="zebra">
 
 ### Does it really cost less than Netflix ?
 
@@ -66,7 +73,7 @@ Yes, it does. Most people will pay around $5.41 per month for ***NCC Deluxe***. 
 [Click here for instructions](/how-much-will-a-monthly-subscription-to-ncc-deluxe-cost-me) on how to find out exactly what you will pay.
 
 </div>
-<div markdown="1" class="section-d">
+<div markdown="1" class="zebra">
 
 ### This sounds great! How do I subscribe ?
 
@@ -88,7 +95,7 @@ The more people who do steps 1 & 2, the more likely it is that we will get our s
 [Click here for some instructions on how to best share this website](/help-save-our-services).
 
 </div>
-<div markdown="1" class="section-e">
+<div markdown="1" class="zebra">
 
 ### What happens if I don't want to subscribe ?
 
