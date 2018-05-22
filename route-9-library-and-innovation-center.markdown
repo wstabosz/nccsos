@@ -31,17 +31,19 @@ This amazing library may have to be closed if the New Castle County Council fail
 
 ### The library today
 
-![0.after.png](/uploads/0.after.png)
+![4.jpg](/uploads/4.jpg)
 
 ![1.jpg](/uploads/1.jpg)
 
 ![2.jpg](/uploads/2.jpg)
 
+![a.png](/uploads/a.png)
+
 ![3.jpg](/uploads/3.jpg)
 
-![4.jpg](/uploads/4.jpg)
+![0.after.png](/uploads/0.after.png)
 
-![5.jpg](/uploads/5.jpg)
+![9.jpg](/uploads/9.jpg)
 
 ![6.jpg](/uploads/6.jpg)
 
@@ -49,8 +51,6 @@ This amazing library may have to be closed if the New Castle County Council fail
 
 ![8.jpg](/uploads/8.jpg)
 
-![9.jpg](/uploads/9.jpg)
-
-![a.png](/uploads/a.png)
+![5.jpg](/uploads/5.jpg)
 
 </div>
