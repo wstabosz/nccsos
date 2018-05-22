@@ -9,8 +9,18 @@ I can't do this alone. I need your help.
 ## Spread the word
 Best thing to do is spread the word. Here are some ways to share:
 
+### How to share on Facebook
+
 If you're on facebook, you can share my [public post](https://www.facebook.com/walter.stabosz/posts/10104608762579754).
 ![facebook-post-to-share.png](/uploads/facebook-post-to-share.png)
+
+![how-to-share-1.png](/uploads/how-to-share-1.png)
+
+On the next screen
+
+![how-to-share-2.png](/uploads/how-to-share-2.png)
+
+### If you're not on Facebook
 
 Or you can post on your favorite social media site using this [picture](/uploads/would%20you%20rather%20-%20facebook%202.png) and a link to [http://www.nccsos.com/](http://www.nccsos.com/)
 
