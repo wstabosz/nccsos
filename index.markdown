@@ -8,13 +8,13 @@ layout: default
 
 <style>
 .section-a,.section-b,.section-c,.section-d,.section-e {
-   border: 1px solid #fff;
+   border: 2px solid #000;
    margin-bottom: 2em;
+   background: #ffa;
 }
 </style>
 
 <div markdown="1" class="section-a">
-
 ## Residents of New Castle County, Delaware
 
 ![would-you-rather.png](/uploads/would-you-rather.png)
