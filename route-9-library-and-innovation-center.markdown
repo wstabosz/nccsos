@@ -7,15 +7,16 @@ This is the Route 9 Library and Innovation Center. It was built in an impoverish
 
 This amazing library may have to be closed if the New Castle County Council fails to pass the recommended budget at their vote tonight at 6:30PM. 
 
-This website was created with the goal of convincing the public and the Council to pass the budget.
+<div markdown="1" class="zebra">
+
+This website was created with the goal of convincing the public and the Council to pass the budget and keeping this library open (and all of our other wonderful public services). This page about the Route 9 Library was created specifically as a sort of landing page for people not familiar with the area. The library is the most visible community service that may be cut if the budget vote fails.
 
 Please help spread the word to any of the following:
 
-* People who live in NCC
-* Social justice blogs
-* Anyone who you think may be able to raise the alarm
-
-[How to share](/help-save-our-services)
+* People who live in New Castle County, Delaware
+* Blogs, influencers, etc
+* Anyone else who you think may be able to raise the alarm.
+</div>
 
 <div markdown="1" class="zebra">
 
