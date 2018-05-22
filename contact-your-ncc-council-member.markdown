@@ -4,6 +4,13 @@ date: 2018-05-20 08:06:00 -04:00
 ---
 
 
+<div markdown="1" class="headline">
+[Come to tonight's Council Meeting](/council-meeting)
+* Talk during the public comment period
+* Watch the vote
+* Show Solidarity
+</div>
+
 <div markdown="1" class="zebra">
 # Call to action: Contact your NCC Council member
 
