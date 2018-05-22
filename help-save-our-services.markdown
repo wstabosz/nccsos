@@ -5,6 +5,7 @@ date: 2018-05-20 16:34:00 -04:00
 
 I can't do this alone. I need your help.
 
+<div markdown="1" class="zebra">
 ## Spread the word
 Best thing to do is spread the word. Here are some ways to share:
 
@@ -22,9 +23,16 @@ Visit http://www.nccsos.com/ to find out how to contact the Council and tell the
 Share this post with all you NCC friends. We need them to call/email too.
 ```
 
+</div>
+
+<div markdown="1" class="zebra">
 ## Printables PDF
+Volunteer needed (I don't think I'll have time to make these)
+
 I'm currently working on printable PDFs that people can print and post around NCC. Check back later today.
 
+</div>
+<div markdown="1" class="zebra">
 ## Technical Support
 
 Some of you may have noticed that this website is a bit rough around the edges. If anyone can help with design.
@@ -33,6 +41,11 @@ It's built with Jekyll and hosted on [github](https://github.com/wstabosz/nccsos
 
 [Contact me](/contact-me) if you can help with web design.
 
+</div>
+
+<div markdown="1" class="zebra">
 ## Graphic Designer
 
 If anyone wants to help design some printable PDFs as mentioned above, please [Contact me](/contact-me).
+
+</div>
