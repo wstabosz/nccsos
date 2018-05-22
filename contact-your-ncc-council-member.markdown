@@ -3,6 +3,8 @@ title: Contact your NCC Council member
 date: 2018-05-20 08:06:00 -04:00
 ---
 
+
+<div markdown="1" class="zebra">
 # Call to action: Contact your NCC Council member
 
 The decision to whether to subscribe to ***NCC Deluxe*** is in the hands of the [13 members](http://www.nccde.org/226/County-Council) of the New Castle County Council. 
@@ -11,6 +13,9 @@ On **this Tuesday, May 21** the Council will vote whether to subscribe the citiz
 
 If you haven't figure it out by now, there is no such thing as ***NCC Deluxe***. The actual vote is for the Fiscal Year 2019 New Castle County budget. We need to tell the Council that we want them to vote in favor of the Budget Recommended by [County Executive Matthew Meyer](http://www.nccde.org/125/County-Executive-Matthew-S-Meyer) for the budget proposal that does not include cuts to the NCC services that we all enjoy such as *public safety*, *parks*, and *libraries*.
 
+</div>
+
+<div markdown="1" class="zebra">
 ## How to contact New Castle County Council
 
 You can copy-and-paste the following block of email address into the **To** box of your email app. It will email all of the council members and their legislative aides.
@@ -19,6 +24,8 @@ You can copy-and-paste the following block of email address into the **To** box 
 krwoods@nccde.org,croberts@nccde.org,rsweiner@nccde.org,lhinkle@nccde.org,jkilpatrick@nccde.org,AJdeFiore@nccde.org,phollins@nccde.org,ntraylor@nccde.org,ediller@nccde.org,slmoore@nccde.org,wepowersjr@nccde.org,rdillmore@nccde.org,gsmiley@nccde.org,tfinnigan@nccde.org,jjcartier@nccde.org,BMHolajter@nccde.org,tpsheldon@nccde.org,MSRodriquez@nccde.org,jpstreet@nccde.org,cljackson@nccde.org,dltackett@nccde.org,vgeorge@nccde.org,jwbell@nccde.org,klbarlow@nccde.org,Kmhartley-nagle@nccde.org
 ```
 
+</div>
+<div markdown="1" class="zebra">
 ## Email Message Template
 
 The following is an email message you can copy-and-paste into the body your email app.
@@ -40,6 +47,8 @@ Feel free to personalize it.
     (your name and address)
 ```
 
+</div>
+<div markdown="1" class="zebra">
 ## Councilperson by District
 
 If you know which district you live in, then you can email/call your councilperson directly.
@@ -61,3 +70,5 @@ There in no simple method to figure out who is your Councilperson. The NCC Counc
 |10|Jea Street<br>[jpstreet@nccde.org](mailto:jpstreet@nccde.org)<br>302-395-8350|Charneese Jackson<br>[cljackson@nccde.org](mailto:cljackson@nccde.org)<br>302-395-8370|
 |11|David Tackett<br>[dltackett@nccde.org](mailto:dltackett@nccde.org)<br>302-395-8351|Valarie George<br>[vgeorge@nccde.org](mailto:vgeorge@nccde.org)<br>302-395-8371|
 |12|Bill Bell<br>[jwbell@nccde.org](mailto:jwbell@nccde.org)<br>302-395-8352|Karen Barlow<br>[klbarlow@nccde.org](mailto:klbarlow@nccde.org)<br>302-395-8372|
+
+</div>
