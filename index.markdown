@@ -11,6 +11,8 @@ layout: default
 ![would-you-rather.png](/uploads/would-you-rather.png)
 </div>
 
+[TAKE THE SURVEY NOW](https://goo.gl/forms/PzRGWNRvUZwvxCF33)
+
 Imagine if you could have better libraries, parks, and public safety right here in our very own New Castle County, and all for less than the cost of your monthly *Netflix* subscription?
 
 I'm asking you to join me in subscribing to a package of services I like to call ***NCC Deluxe*** .
