@@ -11,8 +11,9 @@ Best thing to do is spread the word. Here are some ways to share:
 
 ### How to share on Facebook
 
-If you're on facebook, you can share my [public post](https://www.facebook.com/walter.stabosz/posts/10104608762579754).
-![facebook-post-to-share.png](/uploads/facebook-post-to-share.png)
+If you're on facebook, you can share my [public post](https://www.facebook.com/walter.stabosz/posts/1010461210744A6614)
+
+Click on the link above, and follow these instructions for sharing:
 
 ![how-to-share-1.png](/uploads/how-to-share-1.png)
 
