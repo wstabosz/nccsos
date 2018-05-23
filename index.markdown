@@ -34,7 +34,7 @@ Think of ***NCC Deluxe*** as a service that improves the quality-of-life for all
 
 *Educational* features:
 
-* The [Route 9 Library and Innovation Center](http://www.nccde.org/1389/Route-9-Library-Innovation-Center) - Come for the Lego play room, stay for the 3D printer and laser cutter.
+* The [Route 9 Library and Innovation Center](/route-9-library-and-innovation-center) - Come for the Lego play room, stay for the 3D printer and laser cutter.
 
 * Other greats major libraries such as the [Brandywine Hundred Library](http://www.nccde.org/294/Brandywine-Hundred-Library)
 
