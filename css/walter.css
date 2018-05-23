@@ -30,3 +30,18 @@ div.zebra:nth-child(odd) {
 .section-share a {
 
 }
+
+.section-update {
+    line-height: 1em;
+    clear: both;
+    border: 1px solid black;
+    padding: .5em;
+    margin: 0 0em;
+    background: #000;
+    color: #fff;
+    font-family: serif;
+}
+
+.section-update a {
+    color: darkseagreen;
+}
